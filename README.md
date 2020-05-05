@@ -18,4 +18,4 @@ Open code using Jupyter Notebooks, which can be installed with a distribution su
 For any ideas or improvements please feel free to submit a pull request. 
 
 ### Acknowledgements
-- Yassine Ghouzam's Kaggle notebook: Titanic *Top 4% with ensemble modeling*
+- Yassine Ghouzam - Kaggle submission: *Titanic Top 4% with ensemble modeling*
