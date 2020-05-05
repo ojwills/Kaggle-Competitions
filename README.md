@@ -1,6 +1,6 @@
 ## Kaggle Competitions
 
-This repository presents solutions to the following Kaggle Machine Learning Competitions:
+This repository presents solutions to the following Kaggle Competitions:
  - Titanic: Machine Learning from Disaster (Score 83% accuracy)
  
  ### Getting started
