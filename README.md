@@ -10,5 +10,3 @@ This repository presents solutions to the following Kaggle Competitions:
    ```console
    pip install -r requirements.txt
    ```
- ### Authors
- - Oliver Wills
