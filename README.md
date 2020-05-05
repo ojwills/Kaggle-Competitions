@@ -1,3 +1,14 @@
-# Titanic-machine-learning-from-disaster
+## Kaggle Competitions
 
-This repository presents a solution to the Kaggle data science competition: 'Titanic: Machine Learning from Disaster'. The final solution achieves an accuracy of at least 83% (further refinements are being made to improve performance). 
+This repository presents solutions to the following Kaggle Machine Learning Competitions:
+ - Titanic: Machine Learning from Disaster (Score 83% accuracy)
+ 
+ ### Getting started
+ 
+ To use the code in this repository install the packages in the requirements.txt file. 
+ 
+   ```console
+   pip install -r requirements.txt
+   ```
+ ### Authors
+ - Oliver Wills
